@@ -17,3 +17,11 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma (DAM), r
 Estudiar online me ha servido para convertirme en una persona muy autodidacta. Tengo varios proyectos que hemos hecho en clase, sobre todo en Java, pero también he hecho proyectos por mi cuenta, algunos muy básicos y otros algo más desarrollados, principalmente explorando Python.
 
 Tengo muchas ganas de seguir desarrollándome para poder algún día trabajar en este sector.
+
+## Proyectos destacados
+
+### [📚 Biblioteca Digital](https://github.com/DaniDiaaz/Biblioteca-Digital-Java)
+
+Aplicación desarrollada en Java para la gestión de una biblioteca: permite registrar libros y revistas, gestionar el alquiler de ejemplares y consultar en tiempo real si un ejemplar está disponible o alquilado.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
