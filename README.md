@@ -1,8 +1,8 @@
 # ¡Hola! Soy Daniel Díaz
 
+Estudiante de DAM (1º Curso) | Construyendo herramientas reales mientras aprendo
 
-Estudiante de DAM | Primer curso terminado
 
-Sobre mí
+## Sobre mí
 
 
