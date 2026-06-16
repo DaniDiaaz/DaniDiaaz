@@ -12,4 +12,8 @@ Estudiante de DAM (1º Curso) | Construyendo herramientas reales mientras aprend
 
 ## Sobre mí
 
+Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma (DAM), recientemente he terminado el primer curso. He aprendido las bases de la programación, bases de datos y metodologías de trabajo que me servirán en un futuro, aunque me queda todavía mucho por aprender. 
 
+Estudiar online me ha servido para convertirme en una persona muy autodidacta. Tengo varios proyectos que hemos hecho en clase, sobre todo en Java, pero también he hecho proyectos por mi cuenta, algunos muy básicos y otros algo más desarrollados, principalmente explorando Python.
+
+Tengo muchas ganas de seguir desarrollándome para poder algún día trabajar en este sector.
