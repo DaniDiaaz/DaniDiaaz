@@ -26,7 +26,7 @@ Aplicación desarrollada en Java para la gestión de una biblioteca: permite reg
 
 <div align="center">
 
-<img width="500" height="400" alt="BibliotecaDigital" src="https://github.com/user-attachments/assets/d87d2cba-4e09-4ddb-b044-9a5a2432e124" />
+<img width="450" height="350" alt="BibliotecaDigital" src="https://github.com/user-attachments/assets/d87d2cba-4e09-4ddb-b044-9a5a2432e124" />
 
 </div>
 
