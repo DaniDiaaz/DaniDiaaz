@@ -32,7 +32,7 @@ Aplicación desarrollada en Java para la gestión de una biblioteca: permite reg
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### [⚖️ Despacho de Abogados](https://github.com/DaniDiaaz/Despacho-de-Abogados)
+### [⚖️ Despacho de Abogados](https://github.com/DaniDiaaz/Despacho-de-Abogados) — [Ver demo en vivo](https://danidiaaz.github.io/Despacho-de-Abogados/)
 
 Página web para un despacho de abogados real, donde se pueden consultar sus servicios, su trayectoria profesional y contactar directamente con ellos.
 
