@@ -68,8 +68,11 @@ animales registrados, ofreciendo una interfaz clara e intuitiva.
 - Gestión de citas: veterinario, fecha, hora y motivo
 - Pantalla principal con resumen de los animales registrados
 
-<img width="500" height="400" alt="Clinica" src="https://github.com/user-attachments/assets/f05b7d06-5de9-41ad-9c9d-26495a31aac8" />
+<div align="center">
+
 <img width="500" height="400" alt="Clinica2" src="https://github.com/user-attachments/assets/04cccdba-de1d-45d1-b3ae-00ac51346dba" />
+
+</div>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=java&logoColor=white)
