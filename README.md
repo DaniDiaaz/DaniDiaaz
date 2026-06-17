@@ -39,3 +39,19 @@ Página web para un despacho de abogados real, donde se pueden consultar sus ser
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### [📝 Gestor de Notas](https://github.com/DaniDiaaz/Gestor-Notas-Python)
+
+Gestor de tareas y notas por terminal desarrollado en Python, con un menú 
+interactivo y colores en consola (usando `colorama`) para una experiencia 
+más clara y agradable. Permite añadir notas (como tareas pendientes del día 
+a día), listarlas todas, buscar una nota concreta por palabra clave y 
+eliminarla cuando ya no se necesita.
+
+- Añadir notas nuevas desde el menú
+- Listar todas las notas guardadas
+- Buscar notas por palabra clave
+- Eliminar notas individualmente
+- Interfaz de terminal coloreada con `colorama` para mejorar la legibilidad
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
