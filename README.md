@@ -77,6 +77,35 @@ animales registrados, ofreciendo una interfaz clara e intuitiva.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=java&logoColor=white)
 
+### [📦 Sistema de Gestión de Almacén](https://github.com/DaniDiaaz/Sistema-Almacen-Java)
+
+Aplicación desarrollada en Java y JavaFX para la gestión integral de un almacén, permitiendo administrar productos, controlar el stock y registrar ventas de forma sencilla e intuitiva. El programa está conectado con MySQL para guardar todos los datos.
+
+Funcionalidades principales
+
+- Alta de productos con toda su información (nombre, referencia, precio, stock, categoría, etc.).
+- Edición y actualización de los datos de los productos.
+- Eliminación de productos del inventario.
+- Control automático del stock disponible.
+- Registro de ventas realizadas.
+- Actualización automática del inventario tras cada venta.
+- Historial de ventas para consultar cuándo y qué productos se han vendido.
+- Panel principal con información resumida del almacén:
+  - Productos disponibles.
+  - Ventas realizadas durante el día.
+  - Estado actual del inventario.
+  - Indicadores de actividad.
+
+<div align="center">
+
+<img width="450" height="350" alt="SistemaAlmacen" src="https://github.com/user-attachments/assets/de23452d-6efe-4bff-a193-de36bc51e5f2" />
+
+</div>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## Tecnologías y herramientas
 
 #### Lenguajes
