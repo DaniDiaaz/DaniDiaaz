@@ -24,7 +24,7 @@ Tengo muchas ganas de seguir desarrollándome para poder algún día trabajar en
 
 Aplicación desarrollada en Java para la gestión de una biblioteca: permite registrar libros y revistas, gestionar el alquiler de ejemplares y consultar en tiempo real si un ejemplar está disponible o alquilado.
 
-<img src="C:\Users\Auxitel\Desktop\CLASES\BibliotecaDigital.png" width=600>
+<img width="785" height="593" alt="BibliotecaDigital" src="https://github.com/user-attachments/assets/d87d2cba-4e09-4ddb-b044-9a5a2432e124" />
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
