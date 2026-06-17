@@ -24,6 +24,8 @@ Tengo muchas ganas de seguir desarrollándome para poder algún día trabajar en
 
 Aplicación desarrollada en Java para la gestión de una biblioteca: permite registrar libros y revistas, gestionar el alquiler de ejemplares y consultar en tiempo real si un ejemplar está disponible o alquilado.
 
+<img src="C:\Users\Auxitel\Desktop\CLASES" width=600>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### [⚖️ Despacho de Abogados](https://github.com/DaniDiaaz/Despacho-de-Abogados)
