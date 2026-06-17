@@ -55,3 +55,18 @@ eliminarla cuando ya no se necesita.
 - Interfaz de terminal coloreada con `colorama` para mejorar la legibilidad
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### [🐾 Clínica Veterinaria](https://github.com/DaniDiaaz/Clinica-Veterinaria-Java)
+
+Aplicación de gestión para una clínica veterinaria desarrollada en Java con 
+JavaFX. Permite registrar perros, gatos y aves con sus datos (nombre, edad, 
+raza...) y concretar citas con el veterinario elegido, indicando fecha, hora 
+y motivo de la consulta. La pantalla principal muestra un resumen con los 
+animales registrados, ofreciendo una interfaz clara e intuitiva.
+
+- Registro de animales (perros, gatos, aves) con sus datos
+- Gestión de citas: veterinario, fecha, hora y motivo
+- Pantalla principal con resumen de los animales registrados
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=java&logoColor=white)
