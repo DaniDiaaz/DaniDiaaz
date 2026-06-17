@@ -70,7 +70,7 @@ animales registrados, ofreciendo una interfaz clara e intuitiva.
 
 <div align="center">
 
-<img width="500" height="400" alt="Clinica2" src="https://github.com/user-attachments/assets/04cccdba-de1d-45d1-b3ae-00ac51346dba" />
+<img width="450" height="350" alt="Clinica2" src="https://github.com/user-attachments/assets/04cccdba-de1d-45d1-b3ae-00ac51346dba" />
 
 </div>
 
