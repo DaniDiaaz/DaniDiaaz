@@ -140,7 +140,7 @@ Funcionalidades principales
 
 ## Certificaciones
 
-[![FreeCodeCamp](https://img.shields.io/badge/Responsive%20Web%20Design-FreeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp)]https://www.freecodecamp.org/certification/fcc-24f3a9d3-e4ed-4df6-93cd-78e5591772c4/responsive-web-design
+[![FreeCodeCamp](https://img.shields.io/badge/Responsive%20Web%20Design-FreeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/https://www.freecodecamp.org/fcc-24f3a9d3-e4ed-4df6-93cd-78e5591772c4/responsive-web-design)
 
 ## Contacto
 
