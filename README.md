@@ -138,6 +138,10 @@ Funcionalidades principales
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Certificaciones
+
+[![FreeCodeCamp](https://img.shields.io/badge/Responsive%20Web%20Design-FreeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp)]https://www.freecodecamp.org/certification/fcc-24f3a9d3-e4ed-4df6-93cd-78e5591772c4/responsive-web-design
+
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danidiazarroyo/)
