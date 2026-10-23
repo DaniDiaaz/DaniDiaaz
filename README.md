@@ -2,7 +2,7 @@
   
 # ¡Hola! Soy Daniel Díaz
 
-Estudiante de DAM (1º Curso) | Construyendo herramientas reales mientras aprendo
+Estudiante de DAM (2º Curso) | Construyendo herramientas reales mientras aprendo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danidiazarroyo/)
 [![CV](https://img.shields.io/badge/CV-FF6600?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/DaniDiaaz/DaniDiaaz/raw/main/CV-DANIEL-DÍAZ-ARROYO.pdf)
@@ -19,6 +19,30 @@ Estudiar online me ha servido para convertirme en una persona muy autodidacta. T
 Tengo muchas ganas de seguir desarrollándome para poder algún día trabajar en este sector.
 
 ## Proyectos destacados
+
+### [🎫 Gestor de Incidencias](https://github.com/DaniDiaaz/Gestor-de-Incidencias.git)
+
+Aplicación web full-stack para gestionar incidencias, con autenticación de usuarios y roles diferenciados. Desarrollada con Node.js, Express y PostgreSQL, con una interfaz web propia y un panel de estadísticas.
+
+- Sistema de roles: el administrador gestiona todas las incidencias y cada usuario solo puede gestionar las suyas
+- Inicio de sesión con JWT y contraseñas protegidas con hash (bcrypt)
+- CRUD completo de incidencias con búsqueda por título y filtro por prioridad
+- Panel con estadísticas y gráfico de incidencias por prioridad
+- Recuperación de contraseña mediante tokens
+
+<div align="center">
+
+<img width="450" height="350" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
+
+</div>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### [📚 Biblioteca Digital](https://github.com/DaniDiaaz/Biblioteca-Digital-Java)
 
