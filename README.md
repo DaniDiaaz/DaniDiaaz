@@ -32,7 +32,7 @@ Aplicación web full-stack para gestionar incidencias, con autenticación de usu
 
 <div align="center">
 
-<img width="500" height="400" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
+<img width="550" height="350" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
 
 </div>
 
