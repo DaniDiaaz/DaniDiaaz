@@ -2,7 +2,7 @@
   
 # ¡Hola! Soy Daniel Díaz
 
-Estudiante de DAM (2º Curso) | Construyendo herramientas reales mientras aprendo
+Estudiante de DAM (2º Curso) y desarrollador en prácticas | Full-stack · IA  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danidiazarroyo/)
 [![CV](https://img.shields.io/badge/CV-FF6600?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/DaniDiaaz/DaniDiaaz/raw/main/CV-DANIEL-DÍAZ-ARROYO.pdf)
@@ -20,7 +20,7 @@ Busco mi primera oportunidad profesional como desarrollador, orientada al desarr
 
 ## Proyectos destacados
 
-### [🎫 Gestor de Incidencias](https://github.com/DaniDiaaz/Gestor-de-Incidencias.git)
+### [🎫 Gestor de Incidencias](https://github.com/DaniDiaaz/Gestor-de-Incidencias)
 
 Aplicación web full-stack para gestionar incidencias, con autenticación de usuarios y roles diferenciados. Desarrollada con Node.js, Express y PostgreSQL, con una interfaz web propia y un panel de estadísticas.
 
@@ -46,22 +46,12 @@ Aplicación web full-stack para gestionar incidencias, con autenticación de usu
 
 ### [📦 Sistema de Gestión de Almacén](https://github.com/DaniDiaaz/Sistema-Almacen-Java)
 
-Aplicación desarrollada en Java y JavaFX para la gestión integral de un almacén, permitiendo administrar productos, controlar el stock y registrar ventas de forma sencilla e intuitiva. El programa está conectado con MySQL para guardar todos los datos.
+Aplicación de escritorio desarrollada en Java y JavaFX para la gestión de un almacén: productos, control de stock y registro de ventas. Los datos se guardan en una base de datos MySQL.
 
-Funcionalidades principales
-
-- Alta de productos con toda su información (nombre, referencia, precio, stock, categoría, etc.).
-- Edición y actualización de los datos de los productos.
-- Eliminación de productos del inventario.
-- Control automático del stock disponible.
-- Registro de ventas realizadas.
-- Actualización automática del inventario tras cada venta.
-- Historial de ventas para consultar cuándo y qué productos se han vendido.
-- Panel principal con información resumida del almacén:
-  - Productos disponibles.
-  - Ventas realizadas durante el día.
-  - Estado actual del inventario.
-  - Indicadores de actividad.
+- Gestión de productos: alta, edición y eliminación con toda su información (nombre, referencia, precio, stock, categoría...)
+- Control automático del stock, que se actualiza tras cada venta
+- Registro de ventas e historial para consultar cuándo y qué productos se han vendido
+- Panel principal con resumen del almacén: productos disponibles, ventas del día y estado del inventario
 
 <div align="center">
 
