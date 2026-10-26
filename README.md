@@ -32,7 +32,7 @@ Aplicación web full-stack para gestionar incidencias, con autenticación de usu
 
 <div align="center">
 
-<img width="550" heigth="500" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
+<img width="550" height="500" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
 
 </div>
 
@@ -55,7 +55,7 @@ Aplicación de escritorio desarrollada en Java y JavaFX para la gestión de un a
 
 <div align="center">
 
-<img width="550" heigth="500" alt="SistemaAlmacen" src="https://github.com/user-attachments/assets/de23452d-6efe-4bff-a193-de36bc51e5f2" />
+<img width="550" height="500" alt="SistemaAlmacen" src="https://github.com/user-attachments/assets/de23452d-6efe-4bff-a193-de36bc51e5f2" />
 
 </div>
 
@@ -74,7 +74,7 @@ Web corporativa para un despacho de abogados real, desarrollada con HTML, CSS y 
 
 <div align="center">
 
-<img width="550" heigth="500" alt="DespachoAbogados" src="https://github.com/user-attachments/assets/0439ce14-ecae-496e-8f91-b6000f067fd3" />
+<img width="550" height="500" alt="DespachoAbogados" src="https://github.com/user-attachments/assets/0439ce14-ecae-496e-8f91-b6000f067fd3" />
 
 </div>
 
