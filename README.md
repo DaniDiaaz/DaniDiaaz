@@ -34,8 +34,6 @@ Aplicación web full-stack para gestionar incidencias, con autenticación de usu
 
 <img width="550" height="350" alt="GestorIncidencias" src="https://raw.githubusercontent.com/DaniDiaaz/Gestor-de-Incidencias/main/capturas/dashboard.png" />
 
-<br>
-
 </div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -67,7 +65,7 @@ Funcionalidades principales
 
 <div align="center">
 
-<img width="450" height="350" alt="SistemaAlmacen" src="https://github.com/user-attachments/assets/de23452d-6efe-4bff-a193-de36bc51e5f2" />
+<img width="550" height="350" alt="SistemaAlmacen" src="https://github.com/user-attachments/assets/de23452d-6efe-4bff-a193-de36bc51e5f2" />
 
 </div>
 
