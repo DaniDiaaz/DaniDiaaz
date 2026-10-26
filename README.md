@@ -65,7 +65,18 @@ Aplicación de escritorio desarrollada en Java y JavaFX para la gestión de un a
 
 ### [⚖️ Despacho de Abogados](https://github.com/DaniDiaaz/Despacho-de-Abogados) — [Ver demo en vivo](https://danidiaaz.github.io/Despacho-de-Abogados/)
 
-Página web para un despacho de abogados real, donde se pueden consultar sus servicios, su trayectoria profesional y contactar directamente con ellos.
+Web corporativa para un despacho de abogados real, desarrollada con HTML, CSS y JavaScript y publicada con GitHub Pages. Presenta al equipo y los servicios del despacho y permite contactar con ellos.
+
+- Web de varias páginas: inicio, equipo y servicios
+- Formulario de contacto, datos de contacto directo y horario de atención
+- Páginas legales (privacidad, cookies y aviso legal) y aviso de cookies
+- [Diseño adaptable a móvil y tablet]
+
+<div align="center">
+
+<img width="550" height="350" alt="DespachoAbogados" src="https://github.com/user-attachments/assets/0439ce14-ecae-496e-8f91-b6000f067fd3" />
+
+</div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
